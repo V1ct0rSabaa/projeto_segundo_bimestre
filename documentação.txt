@@ -1,0 +1,25 @@
+Bibliotecas e frameworks utilizados: Collections
+
+Padrões de Projeto:
+Factory Method
+
+algoritmos implementados - complexidade:
+Binary Search(busca binária) - O(log n)
+Mergesort(ordenação por união) - O(log n), divisão e conquista
+
+estrutura de dados implementada - complexidade de operações CRUD:
+Linked List - O(n), O(n), O(n), O(n)
+
+
+links:
+https://www.geeksforgeeks.org/time-complexities-of-different-data-structures/
+https://www.geeksforgeeks.org/merge-sort/
+https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html#sort(java.util.List)
+https://www.baeldung.com/java-sorting
+https://en.wikipedia.org/wiki/Merge_sort
+https://www.geeksforgeeks.org/binary-search/
+https://www.programiz.com/dsa/binary-search
+https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html#binarySearch-java.util.List-T-
+https://www.devmedia.com.br/padrao-de-projeto-factory-method-em-java/26348
+https://medium.com/xp-inc/desing-patterns-factory-method-a7496ae071aa
+https://www.baeldung.com/java-factory-pattern
